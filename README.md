@@ -5,10 +5,10 @@ I'm trying to make a compiler using the "Let's Build a Compiler, by Jack Crensha
 ### Build
 
 I'm building with:
-'g++ cradle.cpp -o cradle'
+`g++ cradle.cpp -o cradle`
 
 and running with:
-'./cradle'
+`./cradle`
 
 ### Usage
 
@@ -18,7 +18,7 @@ Right now it accepts basic math:
 - precedence via parenthesis
 
 For example a valid input may be:
-'5+3*(8/4)-2'
+`5+3*(8/4)-2`
 
 ### Tutorial
 
